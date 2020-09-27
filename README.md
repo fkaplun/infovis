@@ -12,5 +12,5 @@
 ##
 [TimeLine, Federico Kaplun, un breve repaso](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1e1xK2AYpH3TsqTuHcWhgQAI54c3w1KCy_CGyOMEKH5Y&font=Default&lang=en&initial_zoom=2&height=650)
 ##
-# [TP datos personales- Analisis de uso de Rappi]
+# [TP datos personales- Analisis de uso de Rappi](https://fkaplun.github.io/infovis/datospersonales.html)
 ###
