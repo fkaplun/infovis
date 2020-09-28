@@ -14,3 +14,5 @@
 ##
 # [TP datos personales- Analisis de uso de Rappi](https://fkaplun.github.io/infovis/datospersonales.html)
 ###
+[Preview de Datos Personales](https://fkaplun.github.io/infovis/previewdatospersonales.html)
+##
