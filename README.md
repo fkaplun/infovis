@@ -16,3 +16,7 @@
 ###
 [Preview de Datos Personales](https://fkaplun.github.io/infovis/previewdatospersonales.html)
 ##
+# PROYECTO I
+##
+[TP 2, ANALISIS SPOTIFY TOP 200](https://fkaplun.github.io/infovis/spotify200.html)
+##
